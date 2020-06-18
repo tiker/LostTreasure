@@ -301,7 +301,7 @@ local LOST_TREASURE_DATA = {
 -- Betnikh
 	[227] = {
 		[LOST_TREASURE_PIN_TYPE_TREASURE] = {
-			{ 0.1735, 0.3136, "treasuremap_betnikh_001", 43693 }, -- Betnikh Treasure Map I
+			{ 0.1730, 0.3138, "treasuremap_betnikh_001", 43693 }, -- Betnikh Treasure Map I
 			{ 0.5680, 0.8759, "treasuremap_betnikh_002", 43694 }, -- Betnikh Treasure Map II
 			{ 0.4551, 0.4360, "treasuremap_ce_daggerfall_betnikh_01b", 44930 }, -- Betnikh CE Treasure Map
 		},
